@@ -1,0 +1,6 @@
+name: dklat-som
+channels:
+  - conda-forge
+dependencies:
+  - pyproj
+  - fiona
